@@ -13,10 +13,7 @@ A beautiful and simple weather application built with Flutter, utilizing the Ope
 ## Screenshots
 
 ![Home Screen](Screenshots/home_screen.png)
-
-
 ![Search Results Screen](Screenshots/mumbai.png)
-
 ![Search Results Screen](Screenshots/search_screen.png)
 
 ## Installation
