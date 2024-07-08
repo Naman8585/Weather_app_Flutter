@@ -12,7 +12,7 @@ A beautiful and simple weather application built with Flutter, utilizing the Ope
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/Screenshot 2024-07-08 172649.png)
 ![Search Results Screen](screenshots/search_results_screen.png)
 
 ## Installation
